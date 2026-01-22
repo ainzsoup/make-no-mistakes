@@ -1,0 +1,3 @@
+# Rule
+
+Make no mistakes.
